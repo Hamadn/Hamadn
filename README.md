@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamad</h1>
 <h3 align="center">A passionate frontend developer living in Dubai, United Arab Emirates</h3>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nhamad9196" data-color="#BD5FFF" data-emoji="☕"  data-font="Comic" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamadn" alt="hamadn" /></a> </p>
 
 - 🔭 I’m currently working on **MERN projects to increase my knowledge in backend engineeering**
