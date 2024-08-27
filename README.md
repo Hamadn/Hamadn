@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN projects to increase my knowledge in backend development**
 
-- 🌱 I’m currently learning **React, MongoDB, Nodejs**
+- 🌱 I’m currently learning **React, MongoDB, Nodejs and Rust**
 
 - 👯 I’m looking to collaborate on **building websites**
 
