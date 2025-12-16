@@ -21,7 +21,7 @@
 ### 🌱 Currently Learning
 - Workflow automation and integrations with **n8n**  
 - Linux administration and server orchestration  
-- Expanding backend knowledge with **Node.js, MongoDB, and Rust**  
+- Expanding my backend knowledge 
 
 ---
 
