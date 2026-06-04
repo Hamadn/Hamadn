@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamad</h1>
-<h3 align="center">🐧 Linux & Homelab Enthusiast | ⚙️ Automation with n8n | 💻 Developer in Dubai, UAE</h3>
+<h3 align="center">🐧 Linux & Homelab Enthusiast | 💻 Developer in Dubai, UAE</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -10,16 +10,14 @@
 ---
 
 ### 🚀 About Me
-- 🏡 Passionate about building and managing **homelabs, servers, and self-hosted systems**  
-- ⚙️ Automating workflows and tasks using **n8n**  
+- 🏡 Passionate about building and managing **homelabs, servers, and self-hosted systems** 
 - 🐧 Exploring **Linux**, open-source tools, and modern tech stacks  
 - ☕ Coffee fuels my late-night coding sessions  
 - 💡 Always curious, learning, and sharing knowledge with the dev community  
 
 ---
 
-### 🌱 Currently Learning
-- Workflow automation and integrations with **n8n**  
+### 🌱 Currently Learning 
 - Linux administration and server orchestration  
 - Expanding my backend knowledge 
 
