@@ -38,6 +38,13 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/github-snake.svg?palette=github-dark
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
