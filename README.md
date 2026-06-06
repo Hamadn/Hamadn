@@ -53,3 +53,7 @@
 <p align="center">
   <img src="profile/streak.svg" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/d4d672a7-77ca-4d3c-ad0b-ab4c6555f343/thumbnail" >
+</p>
