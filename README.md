@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamad</h1>
 <h3 align="center">🐧 Linux & Homelab Enthusiast | 💻 Developer in Dubai, UAE</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hamadn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Hamadn&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
