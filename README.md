@@ -41,10 +41,15 @@
 ---
 
 ### 📊 Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamadn&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="hamadn" />
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamadn&theme=dark" alt="hamadn" />
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
