@@ -43,13 +43,13 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="profile/stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <img src="profile/streak.svg" alt="GitHub Streak" />
 </p>
