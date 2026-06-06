@@ -42,18 +42,15 @@
 
 ### 📊 Stats
 
-<p align="center">
-  <img src="profile/stats.svg" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="profile/top-langs.svg" alt="Top Languages" />
-</p>
-
-<p align="center">
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="profile/stats.svg" alt="GitHub Stats" /></td>
+      <td><img src="profile/top-langs.svg" alt="Top Languages" /></td>
+    </tr>
+  </table>
+  <br>
   <img src="profile/streak.svg" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/d4d672a7-77ca-4d3c-ad0b-ab4c6555f343/thumbnail" >
-</p>
+  <br>
+  <img src="https://api.boot.dev/v1/users/public/d4d672a7-77ca-4d3c-ad0b-ab4c6555f343/thumbnail" />
+</div>
