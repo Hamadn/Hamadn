@@ -32,7 +32,7 @@
 ---
 
 ### 💻 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,golang,sqlite,postgresql,mongodb,html,css,sass,tailwind,js,react,linux,docker,arch,figma,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,python,sqlite,postgresql,html,css,sass,tailwind,js,react,linux,docker,arch,figma,neovim)](https://skillicons.dev)
 
 ---
 
